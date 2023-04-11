@@ -1,0 +1,433 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5084,
+      "max": [
+        1.201259970664978,
+        0.9917799830436707,
+        1.959149956703186
+      ],
+      "min": [
+        -1.201259970664978,
+        -2.091860055923462,
+        -1.1602799892425537
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 61008,
+      "componentType": 5126,
+      "count": 5084,
+      "max": [
+        0.9992672801017761,
+        0.9998168349266052,
+        0.9971593618392944
+      ],
+      "min": [
+        -0.9992672801017761,
+        -0.9999499917030334,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5084,
+      "max": [
+        0.985260009765625,
+        0.8542500138282776
+      ],
+      "min": [
+        0.00877000018954277,
+        0.0070500001311302185
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 26976,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122016,
+      "componentType": 5126,
+      "count": 233,
+      "max": [
+        0.18238000571727753,
+        -1.1181199550628662,
+        1.1023199558258057
+      ],
+      "min": [
+        -0.18238000571727753,
+        -1.254520058631897,
+        0.9019899964332581
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 124812,
+      "componentType": 5126,
+      "count": 233,
+      "max": [
+        0.9979276061058044,
+        1.0,
+        0.9995981454849243
+      ],
+      "min": [
+        -0.9979276061058044,
+        -0.9946873188018799,
+        -0.9998764395713806
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40672,
+      "componentType": 5126,
+      "count": 233,
+      "max": [
+        0.7272899746894836,
+        0.27063000202178955
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 107904,
+      "componentType": 5125,
+      "count": 1236,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127608,
+      "componentType": 5126,
+      "count": 124,
+      "max": [
+        4.760409832000732,
+        59.44353103637695,
+        26.037059783935547
+      ],
+      "min": [
+        -4.760409832000732,
+        58.289730072021484,
+        25.35906982421875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129096,
+      "componentType": 5126,
+      "count": 124,
+      "max": [
+        0.9998236894607544,
+        0.9884406328201294,
+        0.9983964562416077
+      ],
+      "min": [
+        -0.9998232126235962,
+        -0.979974091053009,
+        -0.9907183647155762
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 112848,
+      "componentType": 5125,
+      "count": 720,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Akiko.Tomiyoshi (https://sketchfab.com/Akiko.Tomiyoshi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/realistic-pandasitting-15a85ff13ce242318af466c9a1caadde",
+      "title": "realistic panda(sitting)"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 115728,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42536,
+      "byteOffset": 115728,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 130584,
+      "byteOffset": 158264,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 288848,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/panda_body_white_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.003438144294573975,
+            0.0032146434865679635,
+            0.0032146434865679635,
+            1.0
+          ],
+          "glossinessFactor": 0.8946265243902439,
+          "specularFactor": [
+            0.04999488099145083,
+            0.04999488099145083,
+            0.04999488099145083
+          ]
+        }
+      },
+      "name": "Material"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.2090320122,
+          "specularFactor": [
+            0.0276069393,
+            0.0276069393,
+            0.0276069393
+          ]
+        }
+      },
+      "name": "panda_body_white"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.0102997008,
+            0.0102997008,
+            0.0102997008,
+            1.0
+          ],
+          "glossinessFactor": 0.3397484756,
+          "specularFactor": [
+            0.2527695293,
+            0.2407598729,
+            0.2407598729
+          ]
+        }
+      },
+      "name": "nose"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.001_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 10,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        5
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -0.10877000000000002,
+        1.1647,
+        1.0
+      ],
+      "name": "Cylinder.001"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder.001_1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.04273000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.04273000000000001,
+        0.0,
+        0.0,
+        -0.04273000000000001,
+        -0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Circle"
+    },
+    {
+      "mesh": 2,
+      "name": "Circle_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
